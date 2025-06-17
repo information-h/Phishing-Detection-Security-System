@@ -1,7 +1,3 @@
-Sure! Here's a detailed and professional `README.md` for your **Phishing Detection Security System** project:
-
----
-
 # 🛡️ Phishing Detection Security System
 
 A machine learning–based system that detects **phishing URLs** to protect users from malicious websites that attempt to steal sensitive information like passwords, credit card numbers, or personal data.
