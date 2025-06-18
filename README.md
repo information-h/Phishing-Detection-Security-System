@@ -114,7 +114,7 @@ It must not be used for any malicious activities or real-world classification wi
 
 ## 👨‍💻 Author
 
-Developed by \[akash kumar shukla]
+Developed by akash kumar shukla
 Contributions, suggestions, and pull requests are welcome!
 
 ---
